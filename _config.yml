@@ -85,16 +85,10 @@ friends: [
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
-        title: "Foo",
-        href: "#"
+        title: "NoNo Blog",
+        href: "http://zchaos.com/"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "曾艳芬应援网",
+        href: "http://www.zengyf.com"
     }
 ]
