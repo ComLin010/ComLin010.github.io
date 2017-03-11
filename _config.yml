@@ -6,7 +6,7 @@ email: superlin10@gmail.com
 description: "关于我，写写东西，看看书"
 keyword: ""
 url: ""              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
