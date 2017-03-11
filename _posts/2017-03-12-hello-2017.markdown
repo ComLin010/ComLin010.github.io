@@ -3,7 +3,7 @@ layout:     post
 title:      "Welcome to Comlin010 Blog"
 subtitle:   " \"欢迎来到我的个人小世界，我的博客\""
 date:       2017-03-12 00:20:59
-author:     "Hux"
+author:     "Comlin010"
 header-img: "img/post-bg-2017.jpg"
 tags:
     - 生活
