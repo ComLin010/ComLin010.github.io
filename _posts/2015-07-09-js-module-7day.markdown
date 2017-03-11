@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     keynote
 title:      "Example Post using Keynote Layout"
 subtitle:   "Keynote: JavaScript Modularization Journey"
@@ -8,7 +8,8 @@ author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
-　　- Arduino
+    - JavaScript
+    - Arduino
 ---
 
 
@@ -42,4 +43,3 @@ tags:
 ### Thanks
 
 [Reveal.js](http://lab.hakim.se/reveal-js)
-
