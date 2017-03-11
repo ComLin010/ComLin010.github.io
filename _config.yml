@@ -1,9 +1,9 @@
-﻿# Site settings
+# Site settings
 title: ComLin010 Blog
-SEOTitle: ComLin010 Blog
+SEOTitle: Comlin010 Blog
 header-img: img/home-bg.jpg
 email: superlin10@gmail.com
-description: "关于我，写写东西，看看书，在校大学生"
+description: ""
 keyword: ""
 url: ""              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     Lady小L
-#zhihu_username:    ComLin010
-github_username:    ComLin010
-#twitter_username:  ComLin010
-#facebook_username: ComLin010
+weibo_username:     lady小L
+#zhihu_username:     huxpro
+github_username:    Comlin010
+#twitter_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: LadyСL
+duoshuo_username: lady小L
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -59,7 +59,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: [your track id]
+ba_track_id: 
 # Google Analytics
 ga_track_id: 'UA-93523402-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
@@ -68,7 +68,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，跳跳舞，<br>三脚猫功夫"
+sidebar-about-description: "写写代码，跳跳舞，<br>都是三脚猫功夫"
 sidebar-avatar: /img/ComLin010-cloud.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -98,4 +98,3 @@ friends: [
         href: "#"
     }
 ]
-
