@@ -1,8 +1,9 @@
-## 这是一个新博客
-#2.23
+# HuxBlog Boilerplate
 
-###记录我生活的点滴？ 大概会弃坑吧。
+##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
 
-###Liquid模板语言有空还是要学习一下
+#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
 
-###那我 就不设计排版了吧
+#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+
+## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
