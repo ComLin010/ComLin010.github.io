@@ -12,7 +12,7 @@ tags:
 
 >缓慢推行
 
-## spring of lite
+## Spring of Lite
 
 3年前？从第一眼看到 [perfume-spring of lite](http://music.163.com/#/mv?id=5224) 的效果就一直很像要做，那种和音乐的完美结合，科技与艺术的相互结合，那种美，真的是让人无比的惊叹。
 
