@@ -87,6 +87,7 @@ Adafruit_NeoPixel strip_b = Adafruit_NeoPixel(16, 6);
 对于WS2128的探索个人还任性努力，下次把ESP8266_Wifi模块的过程也发上来
 
 ## Spring_LED工作记录时间轴
+
 #### 1.1
  * 想做生命之风的衣服效果 
  * 第一版代码实现了渐变变换 
@@ -110,7 +111,7 @@ Adafruit_NeoPixel strip_b = Adafruit_NeoPixel(16, 6);
  * 灯带能根据手机指令进行开关
  * 下一步探究多条灯带接入的可行性
  * 手机App的编写？
- 
+
 #### 1.5 
  * 串并两条灯带成功
  * 重写控制方式 矩阵方式控制？
