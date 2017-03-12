@@ -12,7 +12,7 @@ tags:
 
 >缓慢推行
 
-##spring of lite
+## spring of lite
 
 3年前？从第一眼看到 [perfume-spring of lite](http://music.163.com/#/mv?id=5224) 的效果就一直很像要做，那种和音乐的完美结合，科技与艺术的相互结合，那种美，真的是让人无比的惊叹。
 
@@ -20,7 +20,7 @@ tags:
 
 ---
 
-##技术实现
+## 技术实现
 
 [Adafruit_NeoPixel](learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library) 是一个LED控制库，对WS2812B有很好的兼容性，通过加载 Adafruit_NeoPixel.h库 就能实现对WS2812的控制。
 
