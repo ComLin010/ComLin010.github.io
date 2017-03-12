@@ -77,7 +77,9 @@ Adafruit_NeoPixel strip_b = Adafruit_NeoPixel(16, 6);
 
 但是如果有30条灯带，每一个都要做判断那时一个非常麻烦的事情，所以我发现有另外一个显示库 
 [Adafruit_NeoMatrix](learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library)
-这个库本来是用来驱动LCD和OLED 后来也支持LED的控制，在添加Adafruit_NeoMatrix，需要先添加 Adafruit_NeoPixel 和 [Adafruit_GFX](learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library) 它是用一个阵列LED进行控制
+这个库本来是用来驱动LCD和OLED 后来也支持LED的控制。
+
+在添加Adafruit_NeoMatrix，需要先添加 Adafruit_NeoPixel 和 [Adafruit_GFX](learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library) 它是用一个阵列LED进行控制
 但问题是不知道两条灯带相接的能否用 这个函数库进行控制
 
 ## 总结
