@@ -108,4 +108,4 @@ Adafruit_NeoPixel strip_b = Adafruit_NeoPixel(16, 6);
 ### 1.5 
  * 串并两条灯带成功
  * 重写控制方式 矩阵方式控制？
- * 灯带头尾相接？
+ * 灯带头尾相接？ 
